@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: e1419ab4b24d84c47968fc8c86ada27e
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Flipper_Base
+    100002: Flipper_Handle
+    100004: Flipper_Lever
+    100006: Left_Switch_Box
+    100008: Right_Switch_Box
+    100010: Support
+    100012: Support_001
+    100014: //RootNode
+    100016: Flip_Box
+    100018: Flipper
+    100020: Armature
+    100022: Bone
+    100024: Bone_001
+    400000: Flipper_Base
+    400002: Flipper_Handle
+    400004: Flipper_Lever
+    400006: Left_Switch_Box
+    400008: Right_Switch_Box
+    400010: Support
+    400012: Support_001
+    400014: //RootNode
+    400016: Flip_Box
+    400018: Flipper
+    400020: Armature
+    400022: Bone
+    400024: Bone_001
+    2300000: Flipper_Base
+    2300002: Flipper_Handle
+    2300004: Flipper_Lever
+    2300006: Left_Switch_Box
+    2300008: Right_Switch_Box
+    2300010: Support
+    2300012: Support_001
+    2300014: //RootNode
+    2300016: Flip_Box
+    2300018: Flipper
+    3300000: Flipper_Base
+    3300002: Flipper_Handle
+    3300004: Flipper_Lever
+    3300006: Left_Switch_Box
+    3300008: Right_Switch_Box
+    3300010: Support
+    3300012: Support_001
+    3300014: //RootNode
+    3300016: Flip_Box
+    3300018: Flipper
+    4300000: Flipper
+    4300002: Flipper_Base
+    4300004: Flipper_Handle
+    4300006: Flipper_Lever
+    4300008: Left_Switch_Box
+    4300010: Right_Switch_Box
+    4300012: Support
+    4300014: Support_001
+    4300016: Flip_Box
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Flipper_Lever
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 0
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
