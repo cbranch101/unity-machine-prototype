@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: 111dfec4120b0a6469a47c363720177a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: BN_Hole_Horizontal
+    100002: BN_Hole_Root
+    100004: BN_Hole_Vertical
+    100006: Box001
+    100008: //RootNode
+    100010: Rectangle001
+    400000: BN_Hole_Horizontal
+    400002: BN_Hole_Root
+    400004: BN_Hole_Vertical
+    400006: Box001
+    400008: //RootNode
+    400010: Rectangle001
+    4300000: Box001
+    7400000: Vertical Down
+    7400002: Vertical Up
+    7400004: Horizontal Left
+    7400006: Horizontal Right
+    7400008: Scale SM
+    7400010: Scale LG
+    9500000: //RootNode
+    13700000: Box001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Vertical Down
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 0
+      - path: Rectangle001
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical
+        weight: 1
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical/BN_Hole_Horizontal
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Vertical Up
+      takeName: Take 001
+      firstFrame: 9
+      lastFrame: 9.10000038
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 0
+      - path: Rectangle001
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical
+        weight: 1
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical/BN_Hole_Horizontal
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Horizontal Left
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 0
+      - path: Rectangle001
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical/BN_Hole_Horizontal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Horizontal Right
+      takeName: Take 001
+      firstFrame: 16
+      lastFrame: 16.1000004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 0
+      - path: Rectangle001
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical/BN_Hole_Horizontal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Scale SM
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 0
+      - path: Rectangle001
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical/BN_Hole_Horizontal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Scale LG
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 30.1000004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 0
+      - path: Rectangle001
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical
+        weight: 0
+      - path: Rectangle001/BN_Hole_Root/BN_Hole_Vertical/BN_Hole_Horizontal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

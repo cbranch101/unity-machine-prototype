@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: a1f63680a94d00546bf1716f331c519f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: BN_Light_0
+    100002: BN_Light_1
+    100004: BN_Light_2
+    100006: BN_Light_3
+    100008: BN_Light_4
+    100010: BN_Light_5
+    100012: BN_Light_6
+    100014: BN_Light_7
+    100016: BN_Light_8
+    100018: BN_Light_9
+    100020: BN_Lights_Root
+    100022: Box001
+    100024: GeoSphere001
+    100026: //RootNode
+    100028: Rectangle001
+    400000: BN_Light_0
+    400002: BN_Light_1
+    400004: BN_Light_2
+    400006: BN_Light_3
+    400008: BN_Light_4
+    400010: BN_Light_5
+    400012: BN_Light_6
+    400014: BN_Light_7
+    400016: BN_Light_8
+    400018: BN_Light_9
+    400020: BN_Lights_Root
+    400022: Box001
+    400024: GeoSphere001
+    400026: //RootNode
+    400028: Rectangle001
+    4300000: GeoSphere001
+    7400000: Light_0
+    7400002: Light_1
+    7400004: Light_2
+    7400006: Light_3
+    7400008: Light_4
+    7400010: Light_5
+    7400012: Light_6
+    7400014: Light_7
+    7400016: Light_8
+    7400018: Light_9
+    7400020: Unlit
+    9500000: //RootNode
+    13700000: GeoSphere001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Light_0
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 5.0999999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Light_1
+      takeName: Take 001
+      firstFrame: 9
+      lastFrame: 9.10000038
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Light_2
+      takeName: Take 001
+      firstFrame: 13
+      lastFrame: 13.1000004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Light_3
+      takeName: Take 001
+      firstFrame: 18
+      lastFrame: 18.1000004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Light_4
+      takeName: Take 001
+      firstFrame: 21
+      lastFrame: 21.1000004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Light_5
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 26.1000004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Light_6
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 30.1000004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Light_7
+      takeName: Take 001
+      firstFrame: 34
+      lastFrame: 34.0999985
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Light_8
+      takeName: Take 001
+      firstFrame: 38
+      lastFrame: 38.0999985
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Light_9
+      takeName: Take 001
+      firstFrame: 44
+      lastFrame: 44.0999985
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Unlit
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: .100000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box001/GeoSphere001
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_0
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_1
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_2
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_3
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_4
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_5
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_6
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_7
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_8
+        weight: 1
+      - path: Rectangle001/BN_Lights_Root/BN_Light_9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
